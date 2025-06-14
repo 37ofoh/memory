@@ -15,14 +15,14 @@ header{
 	color: rgb(0, 0, 0)
 }
 header h1{
-	font-size: 55px;
+	font-size: 4vw; /* 画面の幅に合わせる */
 	margin-bottom: 30px;
 	font-family: "WDXL Lubrifont JP N", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 header p{
-	font-size: 40px;
+	font-size: 4vw; /* 画面の幅に合わせる */
 	margin-bottom: 30px;
 	font-family: "WDXL Lubrifont JP N", sans-serif;
   font-weight: 400;
